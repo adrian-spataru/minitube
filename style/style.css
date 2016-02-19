@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+#logo {
+    margin-top: 0.5em;
+    font-family: "Montserrat";
+    color: #e52d27;
+    font-size: 1.333em;
+    text-transform: uppercase;
+
+}
